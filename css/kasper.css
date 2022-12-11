@@ -257,3 +257,7 @@ header nav ul li a.active,
     bottom: 30px;
     display: flex;
   }
+  .landing .bullets li {
+    width: 20px;
+    height: 20px;
+  }
