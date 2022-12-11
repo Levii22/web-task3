@@ -202,4 +202,6 @@ header nav ul li a.active,
   }
   .landing .text {
     position: absolute;
+    left: 0;
+    top: 50%;
   }
