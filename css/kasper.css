@@ -193,5 +193,5 @@ header nav ul li a.active,
     position: relative;
   }
   .landing .overlay {
-    
+    position: absolute;
   }
