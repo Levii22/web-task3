@@ -48,3 +48,8 @@ ul {
     }
 }
 /* End of Global rules */
+
+/* Components */
+.main-heading {
+    text-align: center;
+  }
