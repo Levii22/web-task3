@@ -302,4 +302,5 @@ header nav ul li a.active,
   }
   .services .srv-box h3 {
     margin-bottom: 30px;
+    color: var(--main-color);
   }
