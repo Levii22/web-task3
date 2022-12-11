@@ -283,3 +283,6 @@ header nav ul li a.active,
       grid-row-gap: 60px;
     }
   }
+  .services .srv-box {
+    display: flex;
+  }
