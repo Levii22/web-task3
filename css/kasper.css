@@ -235,4 +235,5 @@ header nav ul li a.active,
   }
   .landing .change-background {
     position: absolute;
+    top: 50%;
   }
