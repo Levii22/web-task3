@@ -5,3 +5,9 @@
     --section-padding: 100px;
   }
 /* End of Global variables */
+
+/* Global rules */
+*{
+    -webkit-box-sizing: border-box;
+    
+}
