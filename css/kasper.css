@@ -186,5 +186,5 @@ header nav ul li a.active,
 
   /* Landing section */
   .landing {
-    
+    min-height: 100vh;
   }
