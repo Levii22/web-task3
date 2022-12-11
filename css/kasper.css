@@ -219,4 +219,7 @@ header nav ul li a.active,
     .landing .text {
       width: 100%;
     }
+    .landing .text .content {
+      max-width: 100%;
+    }
   }
