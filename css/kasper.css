@@ -60,3 +60,6 @@ ul {
     margin-bottom: 70px; /* set the space between the heading and the underline */
     text-transform: uppercase;
   }
+.main-heading h2::before {
+    content: "";
+}
