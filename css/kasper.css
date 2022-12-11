@@ -253,4 +253,5 @@ header nav ul li a.active,
   .landing .bullets {
     position: absolute;
     left: 50%;
+    transform: translateX(-50%);
   }
