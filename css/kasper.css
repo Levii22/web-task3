@@ -226,4 +226,5 @@ header nav ul li a.active,
   .landing .text .content h2 {
     font-size: 32px;
     font-weight: normal;
+    line-height: 1.5;
   }
