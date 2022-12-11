@@ -237,4 +237,5 @@ header nav ul li a.active,
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
+    color: #ddd;
   }
