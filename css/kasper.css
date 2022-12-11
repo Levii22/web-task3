@@ -304,3 +304,7 @@ header nav ul li a.active,
     margin-bottom: 30px;
     color: var(--main-color);
   }
+  .services .srv-box p {
+    line-height: 2;
+    color: #777;
+  }
