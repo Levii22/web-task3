@@ -171,4 +171,5 @@ header nav ul li a.active,
     width: 40px;
     height: 30px;
     position: relative;
+    margin-left: 30px;
   }
