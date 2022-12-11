@@ -234,5 +234,5 @@ header nav ul li a.active,
     line-height: 2;
   }
   .landing .change-background {
-    
+    position: absolute;
   }
