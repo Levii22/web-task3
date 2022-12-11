@@ -271,3 +271,7 @@ header nav ul li a.active,
   /* End of the Landing section */
 
   /* Services section */
+  .services {
+    padding-top: var(--section-padding);
+    padding-bottom: var(--section-padding);
+  }
