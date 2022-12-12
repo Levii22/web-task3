@@ -352,4 +352,5 @@ header nav ul li a.active,
   .design .text {
     color: white;
     padding: 50px;
+    background-color: var(--transparent-color);
   }
