@@ -311,4 +311,8 @@ header nav ul li a.active,
   /* End of the Services section */
 
   /* Design section */
+  .design {
+    padding-top: var(--section-padding);
+    padding-bottom: var(--section-padding);
+  }
   
