@@ -340,4 +340,8 @@ header nav ul li a.active,
   .design .image {
     text-align: center;
   }
-  
+  @media (max-width: 767px) {
+    .design .image {
+      display: none;
+    }
+  }
