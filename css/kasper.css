@@ -337,4 +337,7 @@ header nav ul li a.active,
     z-index: 2;
     flex: 1;
   }
+  .design .image {
+    text-align: center;
+  }
   
