@@ -356,4 +356,5 @@ header nav ul li a.active,
   }
   .design .text h2 {
     font-weight: normal;
+    text-transform: uppercase;
   }
