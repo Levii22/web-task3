@@ -345,3 +345,6 @@ header nav ul li a.active,
       display: none;
     }
   }
+  .design .image img {
+    position: relative;
+  }
