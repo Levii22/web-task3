@@ -322,4 +322,8 @@ header nav ul li a.active,
     align-items: center;
     overflow: hidden;
   }
+  .design::before {
+    content: "";
+    position: absolute;
+  }
   
