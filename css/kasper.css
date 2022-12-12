@@ -347,4 +347,5 @@ header nav ul li a.active,
   }
   .design .image img {
     position: relative;
+    bottom: -150px;
   }
