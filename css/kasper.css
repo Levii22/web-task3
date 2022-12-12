@@ -319,5 +319,6 @@ header nav ul li a.active,
     background-image: url("../images/design-features.jpg");
     background-size: cover;
     display: flex;
+    align-items: center;
   }
   
