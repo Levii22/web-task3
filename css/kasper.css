@@ -430,3 +430,6 @@ header nav ul li a.active,
     font-weight: normal;
     margin-bottom: 10px;
   }
+  .portfolio .imgs-container .box .caption p {
+    color: var(--main-color);
+  }
