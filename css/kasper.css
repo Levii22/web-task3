@@ -710,4 +710,5 @@ header nav ul li a.active,
 .quote q {
   font-size: 30px;
   margin-bottom: 20px;
+  display: block;
 }
