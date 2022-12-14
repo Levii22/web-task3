@@ -798,4 +798,7 @@ header nav ul li a.active,
 /* End of the Pricing section */
 
 /* Subscribe section */
-.subscribe {}
+.subscribe {
+  padding-top: var(--section-padding);
+  padding-bottom: var(--section-padding);
+}
