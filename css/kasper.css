@@ -833,4 +833,5 @@ header nav ul li a.active,
 }
 .subscribe form i {
   position: absolute;
+  top: 50%;
 }
