@@ -497,4 +497,5 @@ header nav ul li a.active,
   .about img {
     position: relative;
     bottom: -120px;
+    margin-top: -120px;
   }
