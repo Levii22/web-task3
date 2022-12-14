@@ -377,3 +377,7 @@ header nav ul li a.active,
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
   }
+  .portfolio .shuffle {
+    display: flex;
+    justify-content: center;
+  }
