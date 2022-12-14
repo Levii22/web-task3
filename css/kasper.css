@@ -828,4 +828,6 @@ header nav ul li a.active,
 .subscribe form {
   display: flex;
   position: relative;
+  width: 500px;
+  max-width: 100%;
 }
