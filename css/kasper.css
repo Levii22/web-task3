@@ -907,4 +907,5 @@ header nav ul li a.active,
   color: white;
   padding: 20px;
   border: none;
+  display: flex;
 }
