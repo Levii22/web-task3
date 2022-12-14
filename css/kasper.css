@@ -614,4 +614,7 @@ header nav ul li a.active,
     flex-direction: column;
     text-align: center;
   }
+  .our-skills .testimonials .content img {
+    margin: 0 auto 20px;
+  }
 }
