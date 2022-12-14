@@ -370,3 +370,10 @@ header nav ul li a.active,
     position: relative;
     top: 1px;
   }
+  /* End of the Design section */
+
+  /* Portfolio section */
+  .portfolio {
+    padding-top: var(--section-padding);
+    padding-bottom: var(--section-padding);
+  }
