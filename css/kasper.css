@@ -992,4 +992,5 @@ header nav ul li a.active,
 }
 .footer .copyright span {
   font-weight: bold;
+  color: var(--main-color);
 }
