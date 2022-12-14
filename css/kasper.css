@@ -961,3 +961,6 @@ header nav ul li a.active,
   color: white;
   text-align: center;
 }
+.footer::before {
+  content: "";
+}
