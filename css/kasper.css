@@ -591,4 +591,5 @@ header nav ul li a.active,
   margin: 0 0 30px;
   font-weight: normal;
   text-align: center;
+  text-transform: uppercase;
 }
