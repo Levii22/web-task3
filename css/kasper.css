@@ -433,3 +433,6 @@ header nav ul li a.active,
   .portfolio .imgs-container .box .caption p {
     color: var(--main-color);
   }
+  .portfolio .more {
+    background-color: var(--main-color);
+  }
