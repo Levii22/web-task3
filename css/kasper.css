@@ -633,3 +633,7 @@ header nav ul li a.active,
   justify-content: center;
   margin: 50px 0;
 }
+.our-skills .testimonials .bullets li {
+  width: 14px;
+  height: 14px;
+}
