@@ -990,3 +990,6 @@ header nav ul li a.active,
 .footer .copyright {
   margin-top: 60px;
 }
+.footer .copyright span {
+  font-weight: bold;
+}
