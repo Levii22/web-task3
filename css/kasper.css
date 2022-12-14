@@ -881,3 +881,8 @@ header nav ul li a.active,
   display: flex;
   justify-content: space-between;
 }
+@media (max-width: 767px) {
+  .contact .content {
+    flex-direction: column;
+  }
+}
