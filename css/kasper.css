@@ -761,4 +761,8 @@ header nav ul li a.active,
 }
 .pricing .plans .plan ul li {
   padding: 20px;
+  position: relative;
+}
+.pricing .plans .plan ul li:not(:last-child)::after {
+  content: "";
 }
