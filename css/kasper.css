@@ -609,3 +609,8 @@ header nav ul li a.active,
   border-radius: 50%;
   margin-right: 50px;
 }
+@media (max-width: 767px) {
+  .our-skills .testimonials .content {
+    flex-direction: column;
+  }
+}
