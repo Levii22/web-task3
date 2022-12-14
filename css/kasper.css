@@ -417,3 +417,6 @@ header nav ul li a.active,
     max-width: 100%;
     transition: 0.3s;
   }
+  .portfolio .imgs-container .box .caption {
+    position: absolute;
+  }
