@@ -940,3 +940,7 @@ header nav ul li a.active,
     margin-top: 30px;
   }
 }
+.contact .content .info address {
+  color: #777;
+  line-height: 2;
+}
