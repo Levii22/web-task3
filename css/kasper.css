@@ -403,3 +403,8 @@ header nav ul li a.active,
   .portfolio .imgs-container .box:hover img {
     transform: rotate(3deg) scale(1.1);
   }
+  @media (min-width: 768px) {
+    .portfolio .imgs-container .box {
+      flex-basis: 50%;
+    }
+  }
