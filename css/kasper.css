@@ -570,3 +570,10 @@ header nav ul li a.active,
 .stats .container .box p {
   font-size: 14px;
 }
+/* End of the Statistics section */
+
+/* Skills section */
+.our-skills {
+  padding-top: var(--section-padding);
+  padding-bottom: var(--section-padding);
+}
