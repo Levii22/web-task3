@@ -676,4 +676,5 @@ header nav ul li a.active,
 }
 .our-skills .skills .prog-holder .prog span::after {
   content: "";
+  position: absolute;
 }
