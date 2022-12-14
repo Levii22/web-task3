@@ -915,3 +915,8 @@ header nav ul li a.active,
 .contact .content .info {
   flex-basis: 25%;
 }
+@media (max-width: 767px) {
+  .contact .content .info {
+    order: -1;
+  }
+}
