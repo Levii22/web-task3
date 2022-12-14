@@ -419,4 +419,5 @@ header nav ul li a.active,
   }
   .portfolio .imgs-container .box .caption {
     position: absolute;
+    left: 0;
   }
