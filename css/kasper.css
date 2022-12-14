@@ -391,4 +391,5 @@ header nav ul li a.active,
   .portfolio .imgs-container {
     display: flex;
     flex-wrap: wrap;
+    margin-top: 60px;
   }
