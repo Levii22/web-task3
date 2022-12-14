@@ -486,3 +486,11 @@ header nav ul li a.active,
     border: none;
     text-transform: uppercase;
   }
+  /* End of the Video section */
+
+  /* About section */
+  .about {
+    padding-top: var(--section-padding);
+    overflow: hidden;
+    text-align: center;
+  }
