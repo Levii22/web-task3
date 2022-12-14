@@ -746,4 +746,5 @@ header nav ul li a.active,
   content: "$";
   font-size: 25px;
   position: relative;
+  top: -40px;
 }
