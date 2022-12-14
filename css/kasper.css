@@ -817,4 +817,6 @@ header nav ul li a.active,
 }
 .subscribe .container {
   position: relative;
+  display: flex;
+  align-items: center;
 }
