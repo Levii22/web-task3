@@ -451,4 +451,5 @@ header nav ul li a.active,
   }
   .video::before {
     content: "";
+    position: absolute;
   }
