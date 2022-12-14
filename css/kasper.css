@@ -555,4 +555,5 @@ header nav ul li a.active,
 .stats .container .box i {
   width: 40px;
   height: 40px;
+  display: flex;
 }
