@@ -443,3 +443,9 @@ header nav ul li a.active,
     text-decoration: none;
     text-transform: uppercase;
   }
+  /* End of the Portfolio section */
+
+  /* Video section */
+  .video {
+    position: relative;
+  }
