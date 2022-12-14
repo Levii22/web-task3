@@ -894,4 +894,5 @@ header nav ul li a.active,
   display: block;
   border: 1px solid #ccc;
   margin-bottom: 30px;
+  width: 100%;
 }
