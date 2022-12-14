@@ -776,4 +776,5 @@ header nav ul li a.active,
 .pricing .plans .plan .foot a {
   display: block;
   padding: 20px 20px;
+  text-decoration: none;
 }
