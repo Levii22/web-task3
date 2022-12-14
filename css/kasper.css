@@ -631,4 +631,5 @@ header nav ul li a.active,
 .our-skills .testimonials .bullets {
   display: flex;
   justify-content: center;
+  margin: 50px 0;
 }
