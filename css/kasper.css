@@ -891,4 +891,5 @@ header nav ul li a.active,
 }
 .contact .content form .main-input {
   padding: 20px;
+  display: block;
 }
