@@ -873,3 +873,7 @@ header nav ul li a.active,
 /* End of the Subscribe section */
 
 /* Contact section */
+.contact {
+  padding-top: var(--section-padding);
+  padding-bottom: var(--section-padding);
+}
