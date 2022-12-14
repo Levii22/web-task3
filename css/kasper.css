@@ -768,4 +768,6 @@ header nav ul li a.active,
   width: 140px;
   height: 1px;
   background-color: var(--main-color);
+  position: absolute;
+  left: 50%;
 }
