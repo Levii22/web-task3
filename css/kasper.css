@@ -620,4 +620,5 @@ header nav ul li a.active,
 }
 .our-skills .testimonials .text {
   line-height: 1.8;
+  border-bottom: 1px solid #ccc;
 }
