@@ -565,4 +565,5 @@ header nav ul li a.active,
 .stats .container .box .number {
   font-size: 50px;
   font-weight: bold;
+  margin: 0 0 20px;
 }
