@@ -395,4 +395,5 @@ header nav ul li a.active,
   }
   .portfolio .imgs-container .box {
     overflow: hidden;
+    position: relative;
   }
