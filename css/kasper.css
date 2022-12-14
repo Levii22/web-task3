@@ -384,3 +384,6 @@ header nav ul li a.active,
   .portfolio .shuffle li {
     padding: 10px;
   }
+  .portfolio .shuffle li.active {
+    
+  }
