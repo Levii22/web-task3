@@ -707,3 +707,6 @@ header nav ul li a.active,
 .quote .container {
   position: relative;
 }
+.quote q {
+  font-size: 30px;
+}
