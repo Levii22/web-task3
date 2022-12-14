@@ -745,4 +745,5 @@ header nav ul li a.active,
 .pricing .plans .plan .head span::before {
   content: "$";
   font-size: 25px;
+  position: relative;
 }
