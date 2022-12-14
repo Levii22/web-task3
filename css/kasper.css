@@ -580,4 +580,5 @@ header nav ul li a.active,
 .our-skills .container {
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
 }
