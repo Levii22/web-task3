@@ -806,3 +806,6 @@ header nav ul li a.active,
   position: relative;
   color: white;
 }
+.subscribe::before {
+  content: "";
+}
