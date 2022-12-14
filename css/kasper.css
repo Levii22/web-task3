@@ -697,4 +697,5 @@ header nav ul li a.active,
 }
 .quote::before {
   content: "";
+  position: absolute;
 }
