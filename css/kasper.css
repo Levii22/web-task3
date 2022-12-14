@@ -408,3 +408,8 @@ header nav ul li a.active,
       flex-basis: 50%;
     }
   }
+  @media (min-width: 1199px) {
+    .portfolio .imgs-container .box {
+      flex-basis: 25%;
+    }
+  }
