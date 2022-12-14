@@ -520,4 +520,5 @@ header nav ul li a.active,
 }
 .stats::before {
   content: "";
+  position: absolute;
 }
