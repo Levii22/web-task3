@@ -973,3 +973,6 @@ header nav ul li a.active,
 .footer .container {
   position: relative;
 }
+.footer img {
+  margin-bottom: 20px;
+}
