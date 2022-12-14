@@ -532,3 +532,6 @@ header nav ul li a.active,
   display: flex;
   flex-wrap: wrap; 
 }
+.stats .container .box {
+  color: white;
+}
