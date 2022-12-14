@@ -654,4 +654,5 @@ header nav ul li a.active,
 }
 .our-skills .skills .prog-holder .prog {
   background-color: #dedadc;
+  height: 30px;
 }
