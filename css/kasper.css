@@ -397,3 +397,6 @@ header nav ul li a.active,
     overflow: hidden;
     position: relative;
   }
+  .portfolio .imgs-container .box:hover .caption {
+    bottom: 0;
+  }
