@@ -677,4 +677,7 @@ header nav ul li a.active,
 .our-skills .skills .prog-holder .prog span::after {
   content: "";
   position: absolute;
+  border-style: solid;
+  border-width: 8px;
+  border-color: black transparent transparent;
 }
