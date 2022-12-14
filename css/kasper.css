@@ -958,4 +958,6 @@ header nav ul li a.active,
   background-image: url("../images/subscribe.jpg");
   background-size: cover;
   position: relative;
+  color: white;
+  text-align: center;
 }
