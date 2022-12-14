@@ -712,3 +712,10 @@ header nav ul li a.active,
   margin-bottom: 20px;
   display: block;
 }
+/* End of the Quote section */
+
+/* Pricing section */
+.pricing {
+  padding-top: var(--section-padding);
+  padding-bottom: var(--section-padding);
+}
