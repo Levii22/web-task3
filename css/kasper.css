@@ -422,4 +422,5 @@ header nav ul li a.active,
     left: 0;
     padding: 20px;
     background-color: white;
+    width: 100%;
   }
