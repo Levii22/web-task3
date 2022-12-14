@@ -825,3 +825,7 @@ header nav ul li a.active,
     flex-direction: column;
   }
 }
+.subscribe form {
+  display: flex;
+  position: relative;
+}
