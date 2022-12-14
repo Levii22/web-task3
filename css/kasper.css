@@ -606,4 +606,5 @@ header nav ul li a.active,
 }
 .our-skills .testimonials .content img {
   width: 100px;
+  border-radius: 50%;
 }
