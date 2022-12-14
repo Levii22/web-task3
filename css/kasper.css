@@ -849,4 +849,5 @@ header nav ul li a.active,
   width: 130px;
   background-color: var(--main-color);
   color: white;
+  padding: 10px 20px;
 }
