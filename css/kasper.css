@@ -905,4 +905,5 @@ header nav ul li a.active,
 .contact .content form input[type="submit"] {
   background-color: var(--main-color);
   color: white;
+  padding: 20px;
 }
