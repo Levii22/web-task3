@@ -464,4 +464,5 @@ header nav ul li a.active,
   .video .text {
     width: 100%;
     position: absolute;
+    top: 50%;
   }
